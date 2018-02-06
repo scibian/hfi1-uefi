@@ -1,0 +1,2 @@
+usr/share/opa/bios_images/*.efi usr/share/hfi1-uefi/bios_images
+usr/share/opa/bios_images/*.rom usr/share/hfi1-uefi/bios_images

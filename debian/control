@@ -1,0 +1,16 @@
+Source: hfi1-uefi
+Maintainer: Brian T. Smith <bsmith@systemfabricworks.com>
+Section: non-free/misc
+Priority: extra
+Standards-Version: 3.9.8
+Homepage: http://www.intel.com
+Build-Depends: debhelper (>= 10),
+
+Package: hfi1-uefi
+Architecture: linux-any
+Depends: ${misc:Depends},
+Description: HFI1 UEFI Option ROM for Gen1 HFI
+ This package contains the HFI1 UEFI Option ROM and the Intel(R)
+ Omni-Path Boot EFI application.
+ Usage of the firmware is subject to the terms and conditions contained
+ inside the provided LICENSE file. Please read it carefully.
