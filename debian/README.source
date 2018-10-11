@@ -1,0 +1,15 @@
+# intel-deb-hfi1-uefi
+
+## Upstream Source
+
+Intel delivers hfi1 uefi as binary RPMs. In order to create the upstream
+source for Debian, the RPMs are extracted into a filesystem and tarred up.
+
+```
+# mkdir hfi1-uefi-1.6.
+# cd hfi1-uefi-1.6
+# rpm2cpio ~/hfi1-uefi-1.6.0.0-0.x86_64.rpm | cpio -ivd
+# cd ..
+# tar czf hfi1-uefi_1.6.0.0-0.orig.tar.gz hfi1-uefi-1.6
+```
+
