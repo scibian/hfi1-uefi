@@ -1,9 +1,11 @@
 Source: hfi1-uefi
-Maintainer: Brian T. Smith <bsmith@systemfabricworks.com>
-Section: non-free/misc
+Maintainer: Scibian Project <packaging@scibian.org>
+Section: utils
 Priority: extra
 Standards-Version: 3.9.6
 Homepage: http://www.intel.com
+Vcs-Git: https://github.com/scibian/hfi1-diagtools-sw.git
+Vcs-Browser: https://github.com/scibian/hfi1-diagtools-sw
 Build-Depends: debhelper (>= 9),
 
 Package: hfi1-uefi
