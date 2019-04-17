@@ -1,3 +1,15 @@
+hfi1-uefi (1.9.2.0-0-1ifs+deb8) jessie; urgency=medium
+
+  * Import hfi1-uefi 1.9.2.0-0 from UEFI 1.9.2.0.0 upstream.
+
+ -- Brian T. Smith <bsmith@systemfabricworks.com>  Wed, 17 Apr 2019 10:06:25 -0500
+
+hfi1-uefi (1.9.0.1-0-1ifs+deb8) jessie; urgency=medium
+
+  * Import hfi1-uefi 1.9.0.1-0 from UEFI 1.9.0.1.0 upstream.
+
+ -- Brian T. Smith <bsmith@systemfabricworks.com>  Tue, 29 Jan 2019 17:45:31 -0600
+
 hfi1-uefi (1.8.1.0-0-1ifs+deb8) jessie; urgency=medium
 
   * Import hfi1-uefi 1.8.1.0-0 from UEFI-OS_Packages
