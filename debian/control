@@ -1,11 +1,9 @@
 Source: hfi1-uefi
-Maintainer: Scibian Project <packaging@scibian.org>
+Maintainer: Brian T. Smith <bsmith@systemfabricworks.com>
 Section: non-free/misc
 Priority: extra
 Standards-Version: 3.9.8
 Homepage: http://www.intel.com
-Vcs-Git: https://github.com/scibian/hfi1-uefi.git
-Vcs-Browser: https://github.com/scibian/hfi1-uefi
 Build-Depends: debhelper (>= 10),
 
 Package: hfi1-uefi
