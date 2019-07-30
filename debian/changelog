@@ -1,6 +1,12 @@
+hfi1-uefi (1.9.2.0-0-1ifs+deb9sci9+opa10.9u2) scibian9+opa10.9; urgency=medium
+
+  * Fix maintainer error in syntax 
+
+ -- MHamed Bouaziz <mhamed-externe.bouaziz@edf.fr>  Tue, 30 Jul 2019 15:16:38 +0200
+
 hfi1-uefi (1.9.2.0-0-1ifs+deb9sci9+opa10.9u1) scibian9+opa10.9; urgency=medium
 
-  * New upstream for scibian9+opa10.9.
+  * New upstream for scibian9+opa10.9
 
  -- MHamed Bouaziz <mhamed-externe.bouaziz@edf.fr>  Tue, 30 Jul 2019 15:08:17 +0200
 
