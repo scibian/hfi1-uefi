@@ -1,5 +1,5 @@
 Source: hfi1-uefi
-aintainer: Scibian Project <packaging@scibian.org>
+Maintainer: Scibian Project <packaging@scibian.org>
 Section: non-free/misc
 Priority: extra
 Standards-Version: 3.9.8
