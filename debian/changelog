@@ -1,3 +1,9 @@
+hfi1-uefi (1.9.2.0-0-1ifs+deb8sci8opa10.10u1) scibian8opa10.10; urgency=medium
+
+  * UNRELEASED
+
+ -- MHamed Bouaziz <mhamed-externe.bouaziz@edf.fr>  Fri, 24 Jul 2020 17:59:15 +0200
+
 hfi1-uefi (1.9.2.0-0-1ifs+deb8) jessie; urgency=medium
 
   * Import hfi1-uefi 1.9.2.0-0 from UEFI 1.9.2.0.0 upstream.
